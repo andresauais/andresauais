@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on my Master degree as a Software Engineer 🎓🎓
+- 🔭 I’m currently working on my Master's degree as a Software Engineer 🎓🎓
 - 📫 How to reach me: andresauais@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
