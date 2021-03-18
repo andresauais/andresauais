@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on my Master degree as a Software Engineer 🎓🎓
+- 📫 How to reach me: andresauais@gmail.com
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=andresauais&show_icons=true&theme=dracula" />
 </a>
