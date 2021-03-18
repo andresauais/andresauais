@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=andresauais&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresauais&show_icons=true&theme=dracula" />
+</a>
